@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GobernacionesLiquidadorImpuestos.WebUI", "GobernacionesLiquidadorImpuestos.WebUI\GobernacionesLiquidadorImpuestos.WebUI.csproj", "{9A21270A-F447-4879-A8F4-43B9C2E5F7FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GobernacionesLiquidadorImpuestos.Core", "GobernacionesLiquidadorImpuestos.Core\GobernacionesLiquidadorImpuestos.Core.csproj", "{F68C2FC9-9E00-4E09-BAEA-245B1C17A6A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GobernacionesLiquidadorImpuestos.Messages", "GobernacionesLiquidadorImpuestos.Messages\GobernacionesLiquidadorImpuestos.Messages.csproj", "{71B7C43C-BA05-4729-B6E0-2C1F8AEEF5A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GobernacionesLiquidadorImpuestos.WebApi", "GobernacionesLiquidadorImpuestos.WebApi\GobernacionesLiquidadorImpuestos.WebApi.csproj", "{CE5A556D-E4BD-45C6-BB91-37251ADAE2CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A21270A-F447-4879-A8F4-43B9C2E5F7FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A21270A-F447-4879-A8F4-43B9C2E5F7FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A21270A-F447-4879-A8F4-43B9C2E5F7FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A21270A-F447-4879-A8F4-43B9C2E5F7FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F68C2FC9-9E00-4E09-BAEA-245B1C17A6A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F68C2FC9-9E00-4E09-BAEA-245B1C17A6A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F68C2FC9-9E00-4E09-BAEA-245B1C17A6A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F68C2FC9-9E00-4E09-BAEA-245B1C17A6A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71B7C43C-BA05-4729-B6E0-2C1F8AEEF5A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71B7C43C-BA05-4729-B6E0-2C1F8AEEF5A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71B7C43C-BA05-4729-B6E0-2C1F8AEEF5A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71B7C43C-BA05-4729-B6E0-2C1F8AEEF5A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE5A556D-E4BD-45C6-BB91-37251ADAE2CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE5A556D-E4BD-45C6-BB91-37251ADAE2CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE5A556D-E4BD-45C6-BB91-37251ADAE2CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE5A556D-E4BD-45C6-BB91-37251ADAE2CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B554685-11F4-4FC5-A4A8-8983AE75B1F5}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/gobernaciones101
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = GobernacionesLiquidadorImpuestos.Core\\GobernacionesLiquidadorImpuestos.Core.csproj
+		SccProjectName1 = GobernacionesLiquidadorImpuestos.Core
+		SccLocalPath1 = GobernacionesLiquidadorImpuestos.Core
+		SccProjectUniqueName2 = GobernacionesLiquidadorImpuestos.Messages\\GobernacionesLiquidadorImpuestos.Messages.csproj
+		SccProjectName2 = GobernacionesLiquidadorImpuestos.Messages
+		SccLocalPath2 = GobernacionesLiquidadorImpuestos.Messages
+		SccProjectUniqueName3 = GobernacionesLiquidadorImpuestos.WebApi\\GobernacionesLiquidadorImpuestos.WebApi.csproj
+		SccProjectName3 = GobernacionesLiquidadorImpuestos.WebApi
+		SccLocalPath3 = GobernacionesLiquidadorImpuestos.WebApi
+		SccProjectUniqueName4 = GobernacionesLiquidadorImpuestos.WebUI\\GobernacionesLiquidadorImpuestos.WebUI.csproj
+		SccProjectName4 = GobernacionesLiquidadorImpuestos.WebUI
+		SccLocalPath4 = GobernacionesLiquidadorImpuestos.WebUI
+	EndGlobalSection
+EndGlobal
